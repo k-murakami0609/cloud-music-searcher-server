@@ -1,8 +1,13 @@
 import * as functions from "firebase-functions";
+import { fetchYoutube } from "./api/";
 
-// // Start writing Firebase Functions
-// // https://firebase.google.com/docs/functions/typescript
-//
-export const helloWorld = functions.https.onRequest((request, response) => {
-  response.send("Hello from Firebase!");
-});
+export const helloWorld = functions.https.onRequest(
+  async (request, response) => {
+    try {
+      const res = await fetchYoutube();
+      response.send(res.data);
+    } catch (e) {
+      console.log(e);
+    }
+  }
+);
