@@ -6,7 +6,6 @@ import ApiTypes from "../const/ApiTypes";
 const spotifyApi = new SpotifyWebApi();
 spotifyApi.setAccessToken(functions.config().apikey.spotify);
 
-// TODO: わかりやすい関数名にする
 const convertSpotifyItemToCommonItem = (items: SpotifyItem[]) => {
   return items.map(item => {
     return {
@@ -19,8 +18,8 @@ const convertSpotifyItemToCommonItem = (items: SpotifyItem[]) => {
   });
 };
 
-const fetchSearchResultFromSpotify = async () => {
-  const res = await spotifyApi.search("花火", ["album"], { market: "JP" });
+const fetchSearchResultFromSpotify = async (q: string) => {
+  const res = await spotifyApi.search(q, ["album"], { market: "JP" });
   const albums = res.body.albums;
 
   return convertSpotifyItemToCommonItem(albums ? albums.items : []);

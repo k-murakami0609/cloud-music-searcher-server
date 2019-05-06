@@ -9,7 +9,6 @@ const youtube = google.youtube({
   auth: functions.config().apikey.youtube
 });
 
-// TODO: わかりやすい関数名にする
 const convertYotubeItemToCommonItem = (
   items: youtube_v3.Schema$SearchResult[]
 ) => {
@@ -32,10 +31,10 @@ const convertYotubeItemToCommonItem = (
   });
 };
 
-const fetchSearchResultFromYoutube = async () => {
+const fetchSearchResultFromYoutube = async (q: string) => {
   const res = await youtube.search.list({
     part: "id,snippet",
-    q: "花火",
+    q: q,
     regionCode: "JP",
     type: "video"
   });
