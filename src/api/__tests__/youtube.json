@@ -1,0 +1,159 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CqiHHa0OL8jSSlT1CYpfr2A69Zc\"",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "JP",
+  "pageInfo": { "totalResults": 933904, "resultsPerPage": 5 },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gSp_mWkFtQJ3vWRstRNBiWX-a0w\"",
+      "id": { "kind": "youtube#video", "videoId": "2MNL2mU8pBE" },
+      "snippet": {
+        "publishedAt": "2017-05-09T15:00:36.000Z",
+        "channelId": "UCXteDRy5qB0IjA8WPusCJ7w",
+        "title": "Mr.Children「HANABI」 Tour2015 REFLECTION Live",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2MNL2mU8pBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2MNL2mU8pBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2MNL2mU8pBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mr.Children Official Channel",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/UHucmIr4MTJnsOJQ4AXRxImZ9FM\"",
+      "id": { "kind": "youtube#video", "videoId": "-tKVN2mAKRI" },
+      "snippet": {
+        "publishedAt": "2017-08-09T15:01:26.000Z",
+        "channelId": "UCIzc1_X3OAFquArF3EOVeWw",
+        "title": "DAOKO × 米津玄師『打上花火』MUSIC VIDEO",
+        "description": "DAOKO × 米津玄師『打上花火』配信中！ ▽iTunes https://itunes.apple.com/jp/album/id1263790414?l=ja&ls=1&app=itunes DAOKO × 米津玄師『打上花火』 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-tKVN2mAKRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-tKVN2mAKRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-tKVN2mAKRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "daoko_jp",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/SLK8jYCNz9ArbG0Axx6tKOV7GuY\"",
+      "id": { "kind": "youtube#video", "videoId": "NGjlMpOCDxI" },
+      "snippet": {
+        "publishedAt": "2018-08-06T05:59:16.000Z",
+        "channelId": "UC9Q3Z5SudK2JIwhYCXWDpvw",
+        "title": "[4K] 長岡花火大会 2018 復興祈願花火 フェニックス - Nagaoka Fireworks Festival 2018 Phoenix -  (shot on Samsung NX1)",
+        "description": "2017年のフェニックスの映像はこちらから The following links are the same display of last year. https://youtu.be/7XZEwipo7ik ☆2016年のフェニックスの映像はこちら.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NGjlMpOCDxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NGjlMpOCDxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NGjlMpOCDxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AQUA Geo Graphic",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5Klzs-kKmjy81BZLIb1_e6Zv9UI\"",
+      "id": { "kind": "youtube#video", "videoId": "3-qkgpJOgtE" },
+      "snippet": {
+        "publishedAt": "2018-10-30T10:00:01.000Z",
+        "channelId": "UC8yYqoMOYO_Q755YLJ-teoQ",
+        "title": "【HANABI】100話ぶりにハナビを1日打ちきりました【よしきの成り上がり人生録#171】[パチスロ][スロット]",
+        "description": "また観たいと思っていただけたら チャンネル登録お願いします！ https://bit.ly/2NvNhlN 今回はARROW浪速店さんでの実践！ どうも、編集者です。...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3-qkgpJOgtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3-qkgpJOgtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3-qkgpJOgtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "スロパチステーション",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/XBHCkmwAt8rW4W8dbvreqUvgtGU\"",
+      "id": { "kind": "youtube#video", "videoId": "ZbfdQ6QUqdM" },
+      "snippet": {
+        "publishedAt": "2012-07-05T23:00:08.000Z",
+        "channelId": "UC1oPBUWifc0QOOY8DEKhLuQ",
+        "title": "三代目 J SOUL BROTHERS from EXILE TRIBE / 花火 ～Short Version～",
+        "description": "http://jsoulb.jp/ 2010年に華々しくデビューを飾り、デビューシングル、1stアルバムと立て続けにスマッシュヒットを記録！ 2011年9月にリリースされた...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbfdQ6QUqdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbfdQ6QUqdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbfdQ6QUqdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "avex",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import { fetchYoutube } from "./youtube";
-import { fetchSpotify } from "./spotify";
+import { fetchSearchResultFromYoutube } from "./youtube";
+import { fetchSearchResultFromSpotify } from "./spotify";
 
-export { fetchYoutube, fetchSpotify };
+export { fetchSearchResultFromYoutube, fetchSearchResultFromSpotify };

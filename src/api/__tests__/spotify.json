@@ -1,0 +1,890 @@
+{
+  "body": {
+    "albums": {
+      "href": "https://api.spotify.com/v1/search?query=%E8%8A%B1%E7%81%AB&type=album&market=JP&offset=0&limit=20",
+      "items": [
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+              },
+              "href": "https://api.spotify.com/v1/artists/5Qeyh2XKoITt1mlEVtzazC",
+              "id": "5Qeyh2XKoITt1mlEVtzazC",
+              "name": "DAOKO",
+              "type": "artist",
+              "uri": "spotify:artist:5Qeyh2XKoITt1mlEVtzazC"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
+          },
+          "href": "https://api.spotify.com/v1/albums/1zIM9xHEOKU0rDCH6nIXQS",
+          "id": "1zIM9xHEOKU0rDCH6nIXQS",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/e331fd3822f9691fbd707fb3e393bafd5fcf4b8a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/dd6c65880c0fe63ae1d23bcce5d22684118db0a1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/71d9fffb14621d9919bf1230796526786abd9baa",
+              "width": 64
+            }
+          ],
+          "name": "打上花火",
+          "release_date": "2017-08-16",
+          "release_date_precision": "day",
+          "total_tracks": 3,
+          "type": "album",
+          "uri": "spotify:album:1zIM9xHEOKU0rDCH6nIXQS"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p"
+              },
+              "href": "https://api.spotify.com/v1/artists/6Tz3nFnN2k3qvsjgJuCO1p",
+              "id": "6Tz3nFnN2k3qvsjgJuCO1p",
+              "name": "Kuroneko",
+              "type": "artist",
+              "uri": "spotify:artist:6Tz3nFnN2k3qvsjgJuCO1p"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6QN0LUO7DHYpEPwH5ZTIzl"
+          },
+          "href": "https://api.spotify.com/v1/albums/6QN0LUO7DHYpEPwH5ZTIzl",
+          "id": "6QN0LUO7DHYpEPwH5ZTIzl",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/e2f861aae9e3a5b9726ea533750f7819076fca97",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a3c3255ce8454d34e38cc868e49ad13e4a9fc1a4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/02fc66ca18319fd23df7ce71e6a2944e31900dd1",
+              "width": 64
+            }
+          ],
+          "name": "嘘の火花 (Special Edition)",
+          "release_date": "2017-03-08",
+          "release_date_precision": "day",
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:6QN0LUO7DHYpEPwH5ZTIzl"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Mc3zbnQx4wRb0tYg7A8sG",
+              "id": "4Mc3zbnQx4wRb0tYg7A8sG",
+              "name": "supercell",
+              "type": "artist",
+              "uri": "spotify:artist:4Mc3zbnQx4wRb0tYg7A8sG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/51j65NyFnMAysa2KvqRDQL"
+          },
+          "href": "https://api.spotify.com/v1/albums/51j65NyFnMAysa2KvqRDQL",
+          "id": "51j65NyFnMAysa2KvqRDQL",
+          "images": [
+            {
+              "height": 635,
+              "url": "https://i.scdn.co/image/0c243b15d8417c5a7e3495a0accdc8e3d0493ee0",
+              "width": 640
+            },
+            {
+              "height": 298,
+              "url": "https://i.scdn.co/image/704e3eab25c57576ee41aa334e240bc85571f51d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/062f702acbfb4399180e471ed0a7b6371a3fc094",
+              "width": 64
+            }
+          ],
+          "name": "うたかた花火/星が瞬くこんな夜に",
+          "release_date": "2010-08-25",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:51j65NyFnMAysa2KvqRDQL"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5W5T6gpAEddvLwKsjgBhhO"
+              },
+              "href": "https://api.spotify.com/v1/artists/5W5T6gpAEddvLwKsjgBhhO",
+              "id": "5W5T6gpAEddvLwKsjgBhhO",
+              "name": "Asako",
+              "type": "artist",
+              "uri": "spotify:artist:5W5T6gpAEddvLwKsjgBhhO"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0kjGfXwbPInLS59z8cKwe6"
+          },
+          "href": "https://api.spotify.com/v1/albums/0kjGfXwbPInLS59z8cKwe6",
+          "id": "0kjGfXwbPInLS59z8cKwe6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/43b2e1dfcda103cb49883ee5286206f726bd0a47",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/211a6cbde428d0a3c9120bd16d658673fc458475",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/683ef33acec9d81ac264fba9b2fbb4cd94d93449",
+              "width": 64
+            }
+          ],
+          "name": "花火の魔法",
+          "release_date": "2018-06-18",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0kjGfXwbPInLS59z8cKwe6"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+              },
+              "href": "https://api.spotify.com/v1/artists/2i0kSiF991uhqOBfdKfB24",
+              "id": "2i0kSiF991uhqOBfdKfB24",
+              "name": "すとぷり",
+              "type": "artist",
+              "uri": "spotify:artist:2i0kSiF991uhqOBfdKfB24"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/41W7G6d885HcgeDBVCqjt5"
+          },
+          "href": "https://api.spotify.com/v1/albums/41W7G6d885HcgeDBVCqjt5",
+          "id": "41W7G6d885HcgeDBVCqjt5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/49e2fe455cd9ad3e68082ae5bdc1a300b43972be",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f8e0621be88a283bd2ef0840a23316820ae04695",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8b56ad381a27bda936e0b03942136ff34fac2583",
+              "width": 64
+            }
+          ],
+          "name": "苺色夏花火",
+          "release_date": "2018-09-02",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:41W7G6d885HcgeDBVCqjt5"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5W5T6gpAEddvLwKsjgBhhO"
+              },
+              "href": "https://api.spotify.com/v1/artists/5W5T6gpAEddvLwKsjgBhhO",
+              "id": "5W5T6gpAEddvLwKsjgBhhO",
+              "name": "Asako",
+              "type": "artist",
+              "uri": "spotify:artist:5W5T6gpAEddvLwKsjgBhhO"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4UniUZv4NoEI0GF6bFYy9H"
+          },
+          "href": "https://api.spotify.com/v1/albums/4UniUZv4NoEI0GF6bFYy9H",
+          "id": "4UniUZv4NoEI0GF6bFYy9H",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/43b2e1dfcda103cb49883ee5286206f726bd0a47",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/211a6cbde428d0a3c9120bd16d658673fc458475",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/683ef33acec9d81ac264fba9b2fbb4cd94d93449",
+              "width": 64
+            }
+          ],
+          "name": "花火の魔法",
+          "release_date": "2018-07-11",
+          "release_date_precision": "day",
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:4UniUZv4NoEI0GF6bFYy9H"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+              },
+              "href": "https://api.spotify.com/v1/artists/2019zR22qK2RBvCqtudBaI",
+              "id": "2019zR22qK2RBvCqtudBaI",
+              "name": "OH MY GIRL",
+              "type": "artist",
+              "uri": "spotify:artist:2019zR22qK2RBvCqtudBaI"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5LqjC7UHWH6oV6zat7ygsk"
+          },
+          "href": "https://api.spotify.com/v1/albums/5LqjC7UHWH6oV6zat7ygsk",
+          "id": "5LqjC7UHWH6oV6zat7ygsk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/f1975bca0ce4dc55fc4ca70ffad908394c656bc3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/777595b32c6995a4eb4c0a925931c76ee4995870",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/dcbe7ce5f0ee6a1532b6256c2a90c98bbeae3041",
+              "width": 64
+            }
+          ],
+          "name": "花火(Remember Me) Japanese ver.",
+          "release_date": "2018-12-21",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5LqjC7UHWH6oV6zat7ygsk"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0N5GP9H5tMPdm7Yi9ZcF2y"
+              },
+              "href": "https://api.spotify.com/v1/artists/0N5GP9H5tMPdm7Yi9ZcF2y",
+              "id": "0N5GP9H5tMPdm7Yi9ZcF2y",
+              "name": "Beat Star Clips",
+              "type": "artist",
+              "uri": "spotify:artist:0N5GP9H5tMPdm7Yi9ZcF2y"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6KFIhY2vG5CM9LZ9o8u6DI"
+          },
+          "href": "https://api.spotify.com/v1/albums/6KFIhY2vG5CM9LZ9o8u6DI",
+          "id": "6KFIhY2vG5CM9LZ9o8u6DI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/882dc160c2a0d0694f0a529326c1c934ca560a1e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/dfab500ad468d4fcf97f6006a5a5a4b2e729edfd",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/06fa44a48a59a3d48afbf2db0dfc8c589aa58a37",
+              "width": 64
+            }
+          ],
+          "name": "花火 『Healing Relaxing Music Series』",
+          "release_date": "2018-07-06",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:6KFIhY2vG5CM9LZ9o8u6DI"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4kfInRl2ECNUxMOjZAEHco"
+              },
+              "href": "https://api.spotify.com/v1/artists/4kfInRl2ECNUxMOjZAEHco",
+              "id": "4kfInRl2ECNUxMOjZAEHco",
+              "name": "Taiyouzoku",
+              "type": "artist",
+              "uri": "spotify:artist:4kfInRl2ECNUxMOjZAEHco"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5YZaGMyJKHEDHq4IKcWCj4"
+          },
+          "href": "https://api.spotify.com/v1/albums/5YZaGMyJKHEDHq4IKcWCj4",
+          "id": "5YZaGMyJKHEDHq4IKcWCj4",
+          "images": [
+            {
+              "height": 625,
+              "url": "https://i.scdn.co/image/2ef00993f834960a73487b410a148a5530e50c93",
+              "width": 640
+            },
+            {
+              "height": 293,
+              "url": "https://i.scdn.co/image/a39c78ef9ba2ad16b4dd0ed85ad6945669564794",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/1ed747bfaafd25ec122957da8f7d9ebea136e1c7",
+              "width": 64
+            }
+          ],
+          "name": "花火",
+          "release_date": "2002",
+          "release_date_precision": "year",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:5YZaGMyJKHEDHq4IKcWCj4"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2w9LNAkzqXjneFDEUr6mya"
+              },
+              "href": "https://api.spotify.com/v1/artists/2w9LNAkzqXjneFDEUr6mya",
+              "id": "2w9LNAkzqXjneFDEUr6mya",
+              "name": "shinobi",
+              "type": "artist",
+              "uri": "spotify:artist:2w9LNAkzqXjneFDEUr6mya"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6yGphTohCHeByHkF8De0Wv"
+          },
+          "href": "https://api.spotify.com/v1/albums/6yGphTohCHeByHkF8De0Wv",
+          "id": "6yGphTohCHeByHkF8De0Wv",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/c4f8348f9f384029ad7cf4ef288cc890b3028a15",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2fb7243667124295cd89b13837482bf64fa10bc5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/39cc9c62c39d706974cf7b544dbd536ca5345eac",
+              "width": 64
+            }
+          ],
+          "name": "夏の線香花火",
+          "release_date": "2017-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6yGphTohCHeByHkF8De0Wv"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk"
+              },
+              "href": "https://api.spotify.com/v1/artists/7gcQfJbjZ2W440kQ2wmqzk",
+              "id": "7gcQfJbjZ2W440kQ2wmqzk",
+              "name": "THE BEAT GARDEN",
+              "type": "artist",
+              "uri": "spotify:artist:7gcQfJbjZ2W440kQ2wmqzk"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4wiAojauCSpG58rzMPEC6c"
+          },
+          "href": "https://api.spotify.com/v1/albums/4wiAojauCSpG58rzMPEC6c",
+          "id": "4wiAojauCSpG58rzMPEC6c",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/be96ab565c233dc6fd931ed2a18b77324154d9df",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/7940b4dd462e3921a82f20e3ea26928bfd2eba05",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/3978a24fa76ab16a1e98188f4fbb1bbfd8d40cf9",
+              "width": 64
+            }
+          ],
+          "name": "花火",
+          "release_date": "2018-07-18",
+          "release_date_precision": "day",
+          "total_tracks": 3,
+          "type": "album",
+          "uri": "spotify:album:4wiAojauCSpG58rzMPEC6c"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0N5GP9H5tMPdm7Yi9ZcF2y"
+              },
+              "href": "https://api.spotify.com/v1/artists/0N5GP9H5tMPdm7Yi9ZcF2y",
+              "id": "0N5GP9H5tMPdm7Yi9ZcF2y",
+              "name": "Beat Star Clips",
+              "type": "artist",
+              "uri": "spotify:artist:0N5GP9H5tMPdm7Yi9ZcF2y"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4Sq27GF6fBwL9Eg8lWFRwj"
+          },
+          "href": "https://api.spotify.com/v1/albums/4Sq27GF6fBwL9Eg8lWFRwj",
+          "id": "4Sq27GF6fBwL9Eg8lWFRwj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/2d679f1a875f60172751c2f211c4ab79f1cb2bf0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ff1c0485f179c858b970cb27cb39c731b3b063a7",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f3532614ea83839099cdefa3750189de421336a4",
+              "width": 64
+            }
+          ],
+          "name": "線香花火 『Healing Relaxing Music Series』",
+          "release_date": "2018-07-06",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:4Sq27GF6fBwL9Eg8lWFRwj"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7sXfAq7Qg206YkC1aAOtul"
+              },
+              "href": "https://api.spotify.com/v1/artists/7sXfAq7Qg206YkC1aAOtul",
+              "id": "7sXfAq7Qg206YkC1aAOtul",
+              "name": "Manami Konishi",
+              "type": "artist",
+              "uri": "spotify:artist:7sXfAq7Qg206YkC1aAOtul"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7E3sF9ZYj39QonC8x2RUms"
+          },
+          "href": "https://api.spotify.com/v1/albums/7E3sF9ZYj39QonC8x2RUms",
+          "id": "7E3sF9ZYj39QonC8x2RUms",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/699d8dbddc22b440974152ba9131f44ef58c57ee",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2b34786ede6650dd8d4951c1a85256002db58352",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/5cb1b8cd1476efc065017947b70aa4a4184f37e1",
+              "width": 64
+            }
+          ],
+          "name": "最後の花火",
+          "release_date": "2018-08-08",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:7E3sF9ZYj39QonC8x2RUms"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3hhnBFvedRONlRpMWQKCwf"
+              },
+              "href": "https://api.spotify.com/v1/artists/3hhnBFvedRONlRpMWQKCwf",
+              "id": "3hhnBFvedRONlRpMWQKCwf",
+              "name": "V.A.",
+              "type": "artist",
+              "uri": "spotify:artist:3hhnBFvedRONlRpMWQKCwf"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7nCCw4aXUHh5lD8ZvTfdVc"
+          },
+          "href": "https://api.spotify.com/v1/albums/7nCCw4aXUHh5lD8ZvTfdVc",
+          "id": "7nCCw4aXUHh5lD8ZvTfdVc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/31be68eab3e02611c2a81df24f6493436c69371d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/95727c51bb1d50e123a23853bf2aac44132f0f91",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f555234123d20022eb4c4e1a4971a546dc43e763",
+              "width": 64
+            }
+          ],
+          "name": "映画『火花』サウンドトラック",
+          "release_date": "2017-11-29",
+          "release_date_precision": "day",
+          "total_tracks": 21,
+          "type": "album",
+          "uri": "spotify:album:7nCCw4aXUHh5lD8ZvTfdVc"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2OfV1qJIySAFV6RyLn8Zu0"
+              },
+              "href": "https://api.spotify.com/v1/artists/2OfV1qJIySAFV6RyLn8Zu0",
+              "id": "2OfV1qJIySAFV6RyLn8Zu0",
+              "name": "Hachimitsu Rocket",
+              "type": "artist",
+              "uri": "spotify:artist:2OfV1qJIySAFV6RyLn8Zu0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1L9O4dH2QewEPpS5Ie7aJm"
+          },
+          "href": "https://api.spotify.com/v1/albums/1L9O4dH2QewEPpS5Ie7aJm",
+          "id": "1L9O4dH2QewEPpS5Ie7aJm",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ee16c14c99628d16536186426001ab885ff1cf81",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c1c1ecc25746a3a1b532380efec12d64327eaa2d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ed30b42cfdc94a5e16e1ee92c85ef19a038483a0",
+              "width": 64
+            }
+          ],
+          "name": "花火と漫画とチョコと雨 (Special Edition)",
+          "release_date": "2018-07-27",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:1L9O4dH2QewEPpS5Ie7aJm"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ZJyngv0651VnqnM8ERaSQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/6ZJyngv0651VnqnM8ERaSQ",
+              "id": "6ZJyngv0651VnqnM8ERaSQ",
+              "name": "FuwaFuwa",
+              "type": "artist",
+              "uri": "spotify:artist:6ZJyngv0651VnqnM8ERaSQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/69Jnn01o6aIZW0V8BQq3KR"
+          },
+          "href": "https://api.spotify.com/v1/albums/69Jnn01o6aIZW0V8BQq3KR",
+          "id": "69Jnn01o6aIZW0V8BQq3KR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4c43d5d218f394ff7248507644317fa230356e92",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/01a80080aa55d8bf98f5fe65416de9f4aa3de5db",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2eeaef2f1b7264f4a594bee4f65d5e461c93fce7",
+              "width": 64
+            }
+          ],
+          "name": "チアリーダー / 恋花火",
+          "release_date": "2017-06-14",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:69Jnn01o6aIZW0V8BQq3KR"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2RN5euWwgrbUGgNjhimw0y"
+              },
+              "href": "https://api.spotify.com/v1/artists/2RN5euWwgrbUGgNjhimw0y",
+              "id": "2RN5euWwgrbUGgNjhimw0y",
+              "name": "Mio Yamazaki",
+              "type": "artist",
+              "uri": "spotify:artist:2RN5euWwgrbUGgNjhimw0y"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2qsy07S4kHBTJZJ7GfUHmQ"
+          },
+          "href": "https://api.spotify.com/v1/albums/2qsy07S4kHBTJZJ7GfUHmQ",
+          "id": "2qsy07S4kHBTJZJ7GfUHmQ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/e6ba5604a932a4bb49f52a3012c8bb6c02ade3e2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/e3ecc5bde7cc44562f2de8788ab76428126e88da",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/19e26147f2cd58bbc37fddf54380f52787ce76f9",
+              "width": 64
+            }
+          ],
+          "name": "花火",
+          "release_date": "2015-09-30",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2qsy07S4kHBTJZJ7GfUHmQ"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/0QGg16GFoyYl8yEODlSxpQ",
+              "id": "0QGg16GFoyYl8yEODlSxpQ",
+              "name": "MAGIC OF LiFE",
+              "type": "artist",
+              "uri": "spotify:artist:0QGg16GFoyYl8yEODlSxpQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4wEDRUCXjnAP3VIin5MeBR"
+          },
+          "href": "https://api.spotify.com/v1/albums/4wEDRUCXjnAP3VIin5MeBR",
+          "id": "4wEDRUCXjnAP3VIin5MeBR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/3384489c8a3aa7f007237d596fb5e9633cc4b9f2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/b587976475f9719529d048347f01f74bb40c3154",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/1357e6b73a27d16d6f248d028e970556cb7242ca",
+              "width": 64
+            }
+          ],
+          "name": "「線香花火/乱舞ランデブー」",
+          "release_date": "2017-04-26",
+          "release_date_precision": "day",
+          "total_tracks": 4,
+          "type": "album",
+          "uri": "spotify:album:4wEDRUCXjnAP3VIin5MeBR"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd"
+              },
+              "href": "https://api.spotify.com/v1/artists/0q7KOr99MYmwKxivChxpSd",
+              "id": "0q7KOr99MYmwKxivChxpSd",
+              "name": "Ai Otsuka",
+              "type": "artist",
+              "uri": "spotify:artist:0q7KOr99MYmwKxivChxpSd"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3n2rpB1X4tupq8A9r8apPp"
+          },
+          "href": "https://api.spotify.com/v1/albums/3n2rpB1X4tupq8A9r8apPp",
+          "id": "3n2rpB1X4tupq8A9r8apPp",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/f0118d5d06e9ed8ece90196b964d16707bbecbc3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/3d16f4769373750b3126881b778b3b2aaa9c1c73",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/1d523c3a1f136c094ba6359d3e65ddd74bb0e052",
+              "width": 64
+            }
+          ],
+          "name": "金魚花火",
+          "release_date": "2004-08-18",
+          "release_date_precision": "day",
+          "total_tracks": 4,
+          "type": "album",
+          "uri": "spotify:album:3n2rpB1X4tupq8A9r8apPp"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+              },
+              "href": "https://api.spotify.com/v1/artists/0xGtOrmB2hnrNRLG3vhpSo",
+              "id": "0xGtOrmB2hnrNRLG3vhpSo",
+              "name": "Anri",
+              "type": "artist",
+              "uri": "spotify:artist:0xGtOrmB2hnrNRLG3vhpSo"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/70mJIfRovWzns8JRHY73mw"
+          },
+          "href": "https://api.spotify.com/v1/albums/70mJIfRovWzns8JRHY73mw",
+          "id": "70mJIfRovWzns8JRHY73mw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/70fd5770bf18b90c852189ca8c0a725b6b8d4ef2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/6e3638e4b7e1a037fcc065945b1273f4b6b25aee",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/11703aa7b2d324759c67db083dee7b20e9573170",
+              "width": 64
+            }
+          ],
+          "name": "線香花火",
+          "release_date": "2018-08-13",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:70mJIfRovWzns8JRHY73mw"
+        }
+      ],
+      "limit": 20,
+      "next": "https://api.spotify.com/v1/search?query=%E8%8A%B1%E7%81%AB&type=album&market=JP&offset=20&limit=20",
+      "offset": 0,
+      "previous": null,
+      "total": 145
+    }
+  },
+  "headers": {
+    "content-type": "application/json; charset=utf-8",
+    "cache-control": "public, max-age=7200",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "Accept, Authorization, Origin, Content-Type, Retry-After",
+    "access-control-allow-methods": "GET, POST, OPTIONS, PUT, DELETE, PATCH",
+    "access-control-allow-credentials": "true",
+    "access-control-max-age": "604800",
+    "content-encoding": "gzip",
+    "date": "Mon, 06 May 2019 12:38:37 GMT",
+    "via": "1.1 google",
+    "alt-svc": "clear",
+    "connection": "close",
+    "transfer-encoding": "chunked"
+  },
+  "statusCode": 200
+}

@@ -1,15 +1,21 @@
 import * as functions from "firebase-functions";
-import { fetchSpotify } from "./api/";
+import {
+  fetchSearchResultFromYoutube,
+  fetchSearchResultFromSpotify
+} from "./api/";
 
 export const helloWorld = functions.https.onRequest(
   async (request, response) => {
     try {
-      // const res = await fetchYoutube();
-      // response.send(res.data);
-      const res = await fetchSpotify();
-      response.send(res);
+      const [youtubeResponse, spotifyResponse] = await Promise.all([
+        fetchSearchResultFromYoutube(),
+        fetchSearchResultFromSpotify()
+      ]);
+
+      response.send([...youtubeResponse, ...spotifyResponse]);
     } catch (e) {
       console.log(e);
+      response.status(500).send(e);
     }
   }
 );
