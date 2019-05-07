@@ -13,12 +13,26 @@ export const helloWorld = functions.https.onRequest(
     }
 
     try {
-      const [youtubeResponse, spotifyResponse] = await Promise.all([
-        fetchSearchResultFromYoutube(q),
-        fetchSearchResultFromSpotify(q)
+      const results = await Promise.all([
+        fetchSearchResultFromYoutube(q).catch(error => {
+          console.error(error);
+          return error;
+        }),
+        fetchSearchResultFromSpotify(q).catch(error => {
+          console.error(error);
+          return error;
+        })
       ]);
 
-      response.send([...youtubeResponse, ...spotifyResponse]);
+      // どれか一つでもAPIが成功していたら、その結果を返却する。
+      const validResults = results.filter(result => !(result instanceof Error));
+      if (validResults.length <= 0) {
+        response.status(500).send("all api is error");
+        return;
+      }
+
+      const result = [].concat.apply([], validResults);
+      response.send(result);
     } catch (e) {
       console.log(e);
       response.status(500).send(e);
