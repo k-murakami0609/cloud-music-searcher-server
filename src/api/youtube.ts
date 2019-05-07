@@ -3,6 +3,7 @@
 import * as functions from "firebase-functions";
 import { google, youtube_v3 } from "googleapis";
 import ApiTypes from "../const/ApiTypes";
+import * as moment from "moment";
 
 const youtube = google.youtube({
   version: "v3",
@@ -20,12 +21,17 @@ const convertYotubeItemToCommonItem = (
       snippet.thumbnails.default &&
       snippet.thumbnails.default.url;
     const videoId = (item.id && item.id.videoId) || "";
+    const publishedAt =
+      snippet &&
+      snippet.publishedAt &&
+      moment(snippet.publishedAt).format("YYYY-MM-DD");
 
     return {
       url: `https://www.youtube.com/watch?v=${videoId}`,
       title: (snippet && snippet.title) || "",
-      publishedAt: (snippet && snippet.publishedAt) || "",
+      publishedAt: publishedAt || "",
       thumbnails: url || "",
+      artist: (snippet && snippet.channelTitle) || "",
       type: ApiTypes.YOUTUBE
     };
   });

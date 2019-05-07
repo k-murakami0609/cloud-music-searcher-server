@@ -13,6 +13,7 @@ const convertSpotifyItemToCommonItem = (items: SpotifyItem[]) => {
       title: item.name,
       publishedAt: item.release_date,
       thumbnails: item.images.length > 0 ? item.images[0].url : "",
+      artist: item.artists.length > 0 ? item.artists[0].name : "",
       type: ApiTypes.SPOTIFY
     };
   });
