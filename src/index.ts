@@ -1,11 +1,14 @@
 import * as functions from "firebase-functions";
+import * as corsLib from "cors";
 import {
   fetchSearchResultFromYoutube,
   fetchSearchResultFromSpotify
 } from "./api/";
 
-export const helloWorld = functions.https.onRequest(
-  async (request, response) => {
+const cors = corsLib();
+
+export const search = functions.https.onRequest((request, response) => {
+  return cors(request, response, async () => {
     const q = request.query["q"];
     if (!q) {
       response.status(400).send("検索文字列を入力してください");
@@ -37,5 +40,5 @@ export const helloWorld = functions.https.onRequest(
       console.log(e);
       response.status(500).send(e);
     }
-  }
-);
+  });
+});

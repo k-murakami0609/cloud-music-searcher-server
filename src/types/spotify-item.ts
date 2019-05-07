@@ -32,4 +32,4 @@ interface SpotifyItem {
   uri: string;
 }
 
-export { SpotifyItem }
+export { SpotifyItem };
